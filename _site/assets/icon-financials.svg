@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 40 40">
+  <g style="isolation: isolate;">
+    <g id="Group">
+      <rect id="Rectangle" x="16.7" y="4.5" width="6" height="14.5" style="fill: #3d7cb8; isolation: isolate; mix-blend-mode: multiply; stroke-width: 0px;"/>
+      <polygon id="Rectangle-2" data-name="Rectangle" points="6 14.7 19.7 28.4 33.4 14.7 6 14.7" style="fill: #e41087; fill-rule: evenodd; isolation: isolate; mix-blend-mode: multiply; stroke-width: 0px;"/>
+    </g>
+    <line id="Line-Copy-2" x1="9" y1="32.5" x2="31" y2="32.5" style="fill: none; isolation: isolate; mix-blend-mode: multiply; stroke: #3d7cb8; stroke-linecap: square; stroke-width: 6px;"/>
+  </g>
+</svg>
