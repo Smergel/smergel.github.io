@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ATOMS/Icon/Style 1</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="COMPONENTS/Desktop/Navigation/Default" transform="translate(-1255, -22)">
+            <g id="ATOMS/Icon/Style-1" transform="translate(1261, 23)">
+                <g id="Group" transform="translate(13.7143, 13.7143) scale(1, -1) translate(-13.7143, -13.7143)translate(-0, -0)">
+                    <rect id="Rectangle" fill="#3D7CB8" style="mix-blend-mode: multiply;" x="10.7142857" y="9.42857143" width="6" height="14.5"></rect>
+                    <polygon id="Rectangle" fill="#E41087" style="mix-blend-mode: multiply;" transform="translate(13.7143, 13.7143) rotate(-45) translate(-13.7143, -13.7143)" points="4.01682129 4.01682129 23.4117501 4.01682129 23.4117501 23.4117501"></polygon>
+                </g>
+                <line x1="3" y1="31.5" x2="25" y2="31.5" id="Line-Copy-2" stroke="#3D7CB8" stroke-width="6" style="mix-blend-mode: multiply;" stroke-linecap="square"></line>
+            </g>
+        </g>
+    </g>
+</svg>
